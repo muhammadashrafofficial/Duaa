@@ -2,10 +2,8 @@
 
 # Duaa · دعاء
 
-**A spiritual companion for Quran, adhkar, and duaa — with Duro the bird by your side.**
 **رفيقك الروحاني للقرآن والأذكار والدعاء، ومعك دورو في كل خطوة.**
 
-Duaa is an open-source Android app built entirely with Kotlin and Jetpack Compose. It brings together mushaf reading, audio recitation, daily adhkar, smart duaa suggestions, and personal worship tracking in one dark, royal-themed experience guided by its mascot, Duro.
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.x-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/compose)
